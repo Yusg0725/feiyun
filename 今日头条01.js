@@ -9,7 +9,7 @@ waitForActivity("com.ss.android.article.lite.activity.MainActivity")   //首页�
 // 视频页面
 // com.ss.android.article.base.feature.detail2.view.NewVideoDetailActivity   
 
-
+var vionson = 1;
 
 function main(){
     var object = id("cv").depth(17).find();
