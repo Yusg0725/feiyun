@@ -1,7 +1,9 @@
 log(currentPackage());
 log(currentActivity());
 
-killApp("com.ss.android.ugc.aweme")
+
+log("killAPP")
+killApp("com.sina.weibo")
 
 
 
